@@ -46,3 +46,6 @@ This dashboard analyzes hotel performance across key metrics such as revenue, oc
 - Improve operational efficiency  
 
 ---
+
+# ⭐ **Show Support**
+If you like this project, consider giving the repository a **star**!
